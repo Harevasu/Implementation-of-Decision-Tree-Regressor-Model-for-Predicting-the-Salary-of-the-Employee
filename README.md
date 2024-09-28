@@ -46,7 +46,8 @@ dt.predict([[5,6]])
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/50aa3fbe-3025-4a3d-a173-35dd47255696)
-![image](https://github.com/user-attachments/assets/4db669e1-5bec-4bb3-b408-3ca4a584de55)
+![image](https://github.com/user-attachments/assets/78ba988a-766e-4801-ab04-5c221871f445)
+
 
 
 
